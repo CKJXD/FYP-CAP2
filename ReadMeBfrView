@@ -1,0 +1,7 @@
+RUN the BankAnalyzer_Desktop.FINAL.code for view the final version on the apps , the Test code is useless, it a draft for my pass code.
+  and For the others GOOD_COMPANY_REALISTIC_TRANSACTIONS ,BAD_MONTH_UNHEALTHY_TRANSACTIONS and VERY_BAD_COMPANY_TRANSACTIONS
+they are the CSV Exel file, 
+GOOD_COMPANY_REALISTIC_TRANSACTIONS and BAD_MONTH_UNHEALTHY_TRANSACTION is same company , you can run the GOOD_COMPANY_REALISTIC_TRANSACTIONS for a view how a good and heathy company looks in the systems 
+and after it , use the add file funtion to add the BAD_MONTH_UNHEALTHY_TRANSACTION csv to see how the system combine both file and analysis.
+
+and VERY_BAD_COMPANY_TRANSACTIONS is a totally bad example to show.
