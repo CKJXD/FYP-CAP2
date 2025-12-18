@@ -5,3 +5,5 @@ GOOD_COMPANY_REALISTIC_TRANSACTIONS and BAD_MONTH_UNHEALTHY_TRANSACTION is same 
 and after it , use the add file funtion to add the BAD_MONTH_UNHEALTHY_TRANSACTION csv to see how the system combine both file and analysis.
 
 and VERY_BAD_COMPANY_TRANSACTIONS is a totally bad example to show.
+
+the FYP-ZIP-TO-DOWNLOAD can direct download the zip file , so the code and CSV will show you in the file , dont have to key in one by one
